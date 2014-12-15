@@ -1,7 +1,6 @@
 # script created by Diana van der Plaat
-
-#The first function (makeCacheMatrix) makes a matrix that can cache its inverse.
-#The second function (cacheSolve) computes the inverse of the matrix created by the first function (makeCacheMatrix)
+# The first function (makeCacheMatrix) makes a matrix that can cache its inverse.
+# The second function (cacheSolve) computes the inverse of the matrix created by the first function (makeCacheMatrix)
 
 # Input x will be a matrix
 # m will be the matrix and it's is reset to NULL every time
